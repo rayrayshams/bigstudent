@@ -4,12 +4,26 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## Rayhan's Personal Repository
+![Alt text](image.png)
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+## About Me
+I am a 15 year old junior at Del Norte HS. I have an younger brother named Rishan who is 6 years old. Me, my brother, my Mom, and my Dad, all live together in our house in 4S Ranch. I love to play volleyball, I like to spend time with my friends, and I like to watch football. I am hard working, a leader, and a go-getter. 
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+## My Freeform!
+<img src = "IMG_1886.jpg" alt="freeform" height="400" width="300">
+
+
+<style>
+    h2#rayhans-personal-repository{
+        color: blue;
+        font-size: 30px;
+        text-align: center;
+    }
+    p{
+        color: yellow;
+    }
+    body{
+        background-color: black;
+    }
+</style>
