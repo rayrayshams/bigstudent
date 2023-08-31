@@ -3,10 +3,13 @@ toc: true
 comments: false
 layout: post
 title: Classic Snake Game
-description: Example Blog!!!  This shows planning and notes from hacks.
-type: plans
+description: Play the classic snake game!
+type: hacks
 courses: { compsci: {week: 0} }
 ---
+
+
+
 
 <style>
 
