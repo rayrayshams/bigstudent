@@ -5,7 +5,7 @@ title: Student Blog
 
 
 ## Rayhan's Personal Repository
-![Alt text](image.png)
+<img src="image.png" alt="family" height="300" width="500">
 
 ## About Me
 I am a 15 year old junior at Del Norte HS. I have an younger brother named Rishan who is 6 years old. Me, my brother, my Mom, and my Dad, all live together in our house in 4S Ranch. I love to play volleyball, I like to spend time with my friends, and I like to watch football. I am hard working, a leader, and a go-getter. 
